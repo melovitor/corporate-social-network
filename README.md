@@ -1,2 +1,2 @@
-# corporate-social-network
-Pjeto criado para fins de estudo e acompanhamnt do curso Ignite ReactJS
+# Corporate Social Network
+Projeto para fins de estudo seguindo o curso Ignite ReackJS
