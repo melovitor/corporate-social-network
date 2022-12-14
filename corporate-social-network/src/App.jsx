@@ -1,6 +1,6 @@
 import { Header } from './components/Header'
 import { Post } from './Post'
-import './global.css'
+import './global.css';
 
 export function App() {
   return (
@@ -11,7 +11,6 @@ export function App() {
         content='Lorem ipsum, dolor sit amet consectetur adipisicing elit.'
       />
     </div>
-
   )
 }
 
