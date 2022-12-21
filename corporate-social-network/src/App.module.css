@@ -1,6 +1,6 @@
 .wrapper {
   max-width: 70rem;
-  margin: 20rem auto;
+  margin: 2rem auto;
   padding: 0 1rem;
   display: grid;
   grid-template-columns: 256px 1fr;

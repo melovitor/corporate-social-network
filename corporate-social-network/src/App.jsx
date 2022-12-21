@@ -16,6 +16,10 @@ export function App() {
         <main>
           <Post
             author='Vitor de Melo'
+            content='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat odit ut pariatur, magnam sint placeat sunt distinctio, nesciunt facilis beatae deleniti unde ipsam nostrum perferendis. Suscipit iste accusamus officiis. Deserunt.'
+          />
+          <Post
+            author='Vitor Santos'
             content='Lorem ipsum, dolor sit amet consectetur adipisicing elit.'
           />
         </main>
@@ -24,4 +28,6 @@ export function App() {
     </div>
   )
 }
+
+
 
