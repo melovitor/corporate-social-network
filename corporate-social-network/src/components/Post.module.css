@@ -119,3 +119,7 @@
   background: var(--gray-500);
   color: var(--blue-500);
 }
+
+.commentList {
+  margin-top: 2rem;
+}
