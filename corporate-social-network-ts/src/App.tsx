@@ -11,12 +11,12 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/melovitor.png",
       name: 'Vitor de Melo',
-      role: 'FullStack Developer'
+      role: 'Web Developer'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Acabei de subir esse projeto para o meu protifolio no Git, deem uma olhada lá!🚀' },
+      { type: 'link', content: 'github.com/melovitor/corporate-social-network' },
     ],
     publishedAt: new Date('2022-12-29 23:09:00')
   },
@@ -28,7 +28,7 @@ const posts = [
       role: 'CTO @ Rocketseat'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
+      { type: 'paragraph', content: 'Fala Devs 👋' },
       { type: 'paragraph', content: 'Eu sou o Diego Fernandes' },
     ],
     publishedAt: new Date('2022-05-03 20:00:00')
