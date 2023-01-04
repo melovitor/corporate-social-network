@@ -2,9 +2,9 @@
 ![preview](./preview.png)
 
 
-# > Curso React.JS @Rocketseat
+# > ReactJS @Rocketseat
 
-Projeto construido atraves do acompenhamento do curso de React.JS da @Rocketseat.
+Projeto construído com o intuito de acompanhar o curso Fundamentos do ReactJS da @Rocketseat.
 
 ## 🛠️ Tecnologias.
 
